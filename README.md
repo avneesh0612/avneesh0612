@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 * I’m currently learning ReactJs and mastering it 💪
 * 👯 I’m looking to collaborate on any ReactJS project
 * 💬 Ask me about ReactJs
+* 📫 How to reach me: [Instagram](https://www.instagram.com/avneesh_agarwal/ "Avneesh's Instagram"), [LinkedIn](https://www.linkedin.com/in/avneesh-agarwal-78312b20a/ "Avneesh's LinkedIn")
 * 🧠 Check out my [Portoflio](https://avneeshresume.netlify.app/ "Avneesh's Portoflio")
 
 
