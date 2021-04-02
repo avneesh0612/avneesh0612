@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 * I’m currently learning ReactJs and mastering it 💪
 * 👯 I’m looking to collaborate on any ReactJS project
 * 💬 Ask me about ReactJs
-* [![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=avneesh0612)](https://github.com/avneesh0612/github-readme-stats)
-
 * 📫 How to reach me: [Instagram](https://www.instagram.com/avneesh_agarwal/ "Avneesh's Instagram")
 * 🧠 Check out my [Portoflio](https://avneeshresume.netlify.app/ "Avneesh's Portoflio")
+
+
+[![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=avneesh0612)](https://github.com/avneesh0612/github-readme-stats)
