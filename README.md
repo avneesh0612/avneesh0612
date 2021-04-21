@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 * 📫 How to reach me: [Instagram](https://www.instagram.com/avneesh_agarwal/ "Avneesh's Instagram"), [LinkedIn](https://www.linkedin.com/in/avneesh-agarwal-78312b20a/ "Avneesh's LinkedIn")
 * 🧠 Check out my [Portoflio](https://avneeshresume.netlify.app/ "Avneesh's Portoflio")
 
+📘 Latest Blog Articles
+* [How to build Google Sign in with firebase in React with react-firebase-hooks](https://avneeshagarwal0612.medium.com/how-to-build-google-sign-in-with-firebase-in-react-with-react-firebase-hooks-c327c80db25d "How to build Google Sign in with firebase in React with react-firebase-hooks")
 
-[![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=avneesh0612)](https://github.com/avneesh0612/&show_icons=true&theme=merko)
+[![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=avneesh0612&theme=radical)](https://github.com/avneesh0612/&show_icons=true&theme=merko)
 
