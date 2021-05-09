@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 * 👯 I’m looking to collaborate on any ReactJS project
 * 💬 Ask me about ReactJs
 * 📫 How to reach me: [Instagram](https://www.instagram.com/avneesh__agarwal/ "Avneesh's Instagram"), [LinkedIn](https://www.linkedin.com/in/avneesh-agarwal-78312b20a/ "Avneesh's LinkedIn")
-* 🧠 Check out my [Portoflio](https://avneeshresume.netlify.app/ "Avneesh's Portoflio")
+* 🧠 Check out my [Resume](https://avneeshresume.netlify.app/ "Avneesh's Portoflio")
 
 📘 Latest Blog Articles
 * [How to build Google Sign in with firebase in React with react-firebase-hooks](https://avneeshagarwal0612.medium.com/how-to-build-google-sign-in-with-firebase-in-react-with-react-firebase-hooks-c327c80db25d "How to build Google Sign in with firebase in React with react-firebase-hooks")
