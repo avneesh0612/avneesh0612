@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 
 📘 Latest Blog Articles
 * [How to build Google Sign in with firebase in React with react-firebase-hooks](https://avneeshagarwal0612.medium.com/how-to-build-google-sign-in-with-firebase-in-react-with-react-firebase-hooks-c327c80db25d "How to build Google Sign in with firebase in React with react-firebase-hooks")
-* [How to deploy your react application to netlify](https://avneeshagarwal.medium.com/how-to-deploy-your-website-to-netlify-for-free-830e91705b7f "How to deploy your react application to netlify")
 * [Git and Github crash course](https://avneeshagarwal.medium.com/git-and-github-crash-course-b44f4885ff66 "Git and Github crash course")
+* [How to create light and dark mode toggle in Next.js with Tailwind](https://avneeshagarwal.medium.com/how-to-create-light-and-dark-mode-toggle-in-next-js-with-tailwind-61e67518fd2d "How to create light and dark mode toggle in Next.js with Tailwind")
+* [How to create page transitions in Next.js with framer motion](https://avneeshagarwal.medium.com/how-to-create-page-transitions-in-next-js-with-framer-motion-47642c462c62 "How to create page transitions in Next.js with framer motion")
 
 [![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=avneesh0612&theme=radical)](https://github.com/avneesh0612/&show_icons=true&theme=merko)
 
