@@ -26,13 +26,4 @@ This CLI tool generates a great l... </p> <br/> <br/>
 He made a tweet on this, check it out here-
 https://twitter.com/SahilPabale/status/1446400767129051143
 Do you remember, in school, our teacher reminding us to recheck our answer sheet before ... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.avneesh.tech//finding-the-right-open-source-projects-to-contribute-to" title="Finding the Right Open Source Projects to Contribute to"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633574771415/0IB_GsBJv.png" alt="Finding the Right Open Source Projects to Contribute to" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//finding-the-right-open-source-projects-to-contribute-to" title="Finding the Right Open Source Projects to Contribute to"><strong>Finding the Right Open Source Projects to Contribute to</strong></a>
-<div><strong>7 Oct 2021</strong></div>
-<br/> One of the biggest question marks while contributing to open source is what to contribute to?
-
-So let's see where to find these repositories-
-GitHub search/explore
-Github is a great way to find other open-source projects to work on. Here you can sear... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
