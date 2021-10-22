@@ -28,5 +28,7 @@ https://twitter.com/SahilPabale/status/1446400767129051143
 Do you remember, in school, our teacher reminding us to recheck our answer sheet before ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-[<img src="https://res.cloudinary.com/dssvrf9oz/image/upload/v1634874546/Frame_1_uvzdpw.png" alt="Read more" width="200"/>](https://blog.avneesh.tech/)
+<p align="center">  
+<a href="https://blog.avneesh.tech/"><img src="https://res.cloudinary.com/dssvrf9oz/image/upload/v1634874546/Frame_1_uvzdpw.png" alt="Read more" width="200"/></a>
+</p>
 
