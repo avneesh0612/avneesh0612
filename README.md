@@ -12,20 +12,19 @@ Feel free to reach me out on any platforms [here](https://avneesh-links.vercel.a
 ## 📰 My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.avneesh.tech//my-experience-of-hacktoberfest-2021" title="My experience of Hacktoberfest 2021"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635008619295/90DN7SsyX.png" alt="My experience of Hacktoberfest 2021" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//my-experience-of-hacktoberfest-2021" title="My experience of Hacktoberfest 2021"><strong>My experience of Hacktoberfest 2021</strong></a>
+<div><strong>23 Oct 2021</strong></div>
+<br/> I have been participating in a great and the biggest event for open source this month- Hacktoberfest! In this article, I am going to tell you how I participated and how I enjoyed this event.
+
+Hacktoberfest is about contributing to open source, not ge... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.avneesh.tech//create-nice-readmes-for-your-open-source-projects" title="Create nice Readmes for your open source projects ✨"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1634634894026/NWEfdolos.png" alt="Create nice Readmes for your open source projects ✨" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//create-nice-readmes-for-your-open-source-projects" title="Create nice Readmes for your open source projects ✨"><strong>Create nice Readmes for your open source projects ✨</strong></a>
 <div><strong>19 Oct 2021</strong></div>
 <br/> Creating good Readmes for your open source project is very important to get some popularity, stars, forks, and contributors. So today we are going to look at 2 ways to create beautiful Readmes.
 1. Readme-md-generator
 This CLI tool generates a great l... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.avneesh.tech//5-mistakes-you-should-avoid-while-coding" title="5 Mistakes you should avoid while coding"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633881058060/MdxWuioRc.png" alt="5 Mistakes you should avoid while coding" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//5-mistakes-you-should-avoid-while-coding" title="5 Mistakes you should avoid while coding"><strong>5 Mistakes you should avoid while coding</strong></a>
-<div><strong>10 Oct 2021</strong></div>
-<br/> Hey there, this post is in collaboration with Sahil Pabale
-He made a tweet on this, check it out here-
-https://twitter.com/SahilPabale/status/1446400767129051143
-Do you remember, in school, our teacher reminding us to recheck our answer sheet before ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
