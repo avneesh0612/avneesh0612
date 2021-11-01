@@ -36,3 +36,5 @@ Hacktoberfest is about contributing to open source, not ge... </p> <br/> <br/>
 <a href="https://blog.avneesh.tech/"><img src="https://res.cloudinary.com/dssvrf9oz/image/upload/v1634874546/Frame_1_uvzdpw.png" alt="Read more" width="200"/></a>
 </p>
 
+### Daily.dev profile card
+<a href="https://app.daily.dev/avneesh0612"><img src="https://api.daily.dev/devcards/ce4ce03d4f074a4d8143c215bf1e126d.png?r=4vo" width="400" alt="Avneesh Agarwal's Dev Card"/></a>
