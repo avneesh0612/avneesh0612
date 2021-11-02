@@ -14,15 +14,17 @@ Feel free to reach me out on any platforms [here](https://avneesh-links.vercel.a
 <p align="left">
 <a href="https://blog.avneesh.tech//create-a-custom-video-player-in-react" title="Create a custom video player in React 📽️"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635679425675/7SwKPsf4U.png" alt="Create a custom video player in React 📽️" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//create-a-custom-video-player-in-react" title="Create a custom video player in React 📽️"><strong>Create a custom video player in React 📽️</strong></a>
-<div><strong>31 Oct 2021</strong> | <strong>Updated: 31 Oct 2021</strong></div>
+<div><strong>31 Oct 2021</strong> | <strong>Updated: 1 Nov 2021</strong></div>
 <br/> Wassup guys, in this tutorial we are going to see how to build a custom video player in React. Let's jump straight into it!
 
 Setup
 Create a new react app
-npx create-react-video-app custom-video-player
+npx create-react-app custom-video-player
 Cleanup
 
-Delete everything in the app div in App.... </p> <br/> <br/>
+Delete everything in the app div in App.js.
+
+i... </p> <br/> <br/>
 <p align="left">
 <a href="https://blog.avneesh.tech//my-experience-of-hacktoberfest-2021" title="My experience of Hacktoberfest 2021"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635008619295/90DN7SsyX.png" alt="My experience of Hacktoberfest 2021" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//my-experience-of-hacktoberfest-2021" title="My experience of Hacktoberfest 2021"><strong>My experience of Hacktoberfest 2021</strong></a>
