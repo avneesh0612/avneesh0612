@@ -12,6 +12,15 @@ Feel free to reach me out on any platforms [here](https://avneesh-links.vercel.a
 ## 📰 My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.avneesh.tech//finding-the-right-open-source-projects-to-contribute-to" title="Finding the Right Open Source Projects to Contribute to"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1633574771415/0IB_GsBJv.png" alt="Finding the Right Open Source Projects to Contribute to" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//finding-the-right-open-source-projects-to-contribute-to" title="Finding the Right Open Source Projects to Contribute to"><strong>Finding the Right Open Source Projects to Contribute to</strong></a>
+<div><strong>7 Oct 2021</strong></div>
+<br/> One of the biggest question marks while contributing to open source is what to contribute to?
+
+So let's see where to find these repositories-
+GitHub search/explore
+Github is a great way to find other open-source projects to work on. Here you can sear... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.avneesh.tech//create-a-custom-video-player-in-react" title="Create a custom video player in React 📽️"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635679425675/7SwKPsf4U.png" alt="Create a custom video player in React 📽️" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//create-a-custom-video-player-in-react" title="Create a custom video player in React 📽️"><strong>Create a custom video player in React 📽️</strong></a>
 <div><strong>31 Oct 2021</strong> | <strong>Updated: 1 Nov 2021</strong></div>
@@ -25,13 +34,6 @@ Cleanup
 Delete everything in the app div in App.js.
 
 i... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.avneesh.tech//my-experience-of-hacktoberfest-2021" title="My experience of Hacktoberfest 2021"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1635008619295/90DN7SsyX.png" alt="My experience of Hacktoberfest 2021" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//my-experience-of-hacktoberfest-2021" title="My experience of Hacktoberfest 2021"><strong>My experience of Hacktoberfest 2021</strong></a>
-<div><strong>23 Oct 2021</strong></div>
-<br/> I have been participating in a great and the biggest event for open source this month- Hacktoberfest! In this article, I am going to tell you how I participated and how I enjoyed this event.
-
-Hacktoberfest is about contributing to open source, not ge... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
