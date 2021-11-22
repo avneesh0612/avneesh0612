@@ -14,7 +14,6 @@ Feel free to reach me out on any platforms [here](https://avneesh-links.vercel.a
 <p align="left">
 <a href="https://blog.avneesh.tech//build-a-quiz-app-with-nextjs-and-tailwindcss" title="Build a quiz App with Next.js and TailwindCSS!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636266997125/C_QN44uJc.png" alt="Build a quiz App with Next.js and TailwindCSS!" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//build-a-quiz-app-with-nextjs-and-tailwindcss" title="Build a quiz App with Next.js and TailwindCSS!"><strong>Build a quiz App with Next.js and TailwindCSS!</strong></a>
-<div><strong>7 Nov 2021</strong> | <strong>Updated: 7 Nov 2021</strong></div>
 <br/> Hey guys, this is gonna be a tutorial plus a challenge. I also have a giveaway at the end so stay tuned ;)
 Demo
 https://www.loom.com/share/057cf700f0a24f22ba1f3528f8f9e585
@@ -23,7 +22,6 @@ Setting u... </p> <br/> <br/>
 <p align="left">
 <a href="https://blog.avneesh.tech//animate-and-change-header-background-on-scroll" title="Animate and Change Header Background on Scroll"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636354538679/yUuVhSKRb.png" alt="Animate and Change Header Background on Scroll" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//animate-and-change-header-background-on-scroll" title="Animate and Change Header Background on Scroll"><strong>Animate and Change Header Background on Scroll</strong></a>
-<div><strong>8 Nov 2021</strong></div>
 <br/> You might have seen some web apps where the header changes its color or becomes glassmorphic when you scroll down. So in this tutorial, I am going to show you how you can do the same. Let's jump right into it.
 Demo
 https://www.loom.com/share/432917e9... </p> <br/> <br/>
