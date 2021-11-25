@@ -1,6 +1,7 @@
-## Hi there, 👋  I'm Avneesh
+# Hi there, I'm Avneesh 👋
 
-### A few things about me-
+### A few things about me
+
 - 💻 I'm web developer, designer, content creator and student
 - 📍 I'm from India
 - 🕸️ I am passionate about building websites with Next.js
@@ -9,16 +10,16 @@
 - 🤓 I like to learn about new tech and blog about it on [Hashnode](https://hashnode.com/@avneesh0612). If you want to read my blogs, click [here](https://blog.avneesh.tech)
 
 ### 📫 How to reach me?
-Feel free to reach me out on any platforms [here](https://avneesh-links.vercel.app)
 
+Feel free to reach me out on any platforms [here](https://avneesh-links.vercel.app)
 
 ### 📈 GitHub Stats
 
 [![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=avneesh0612&count_private=true&theme=dracula&hide_border=true)](https://github.com/avneesh0612)<br />
 [![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=avneesh0612&theme=dracula&layout=compact&hide_border=true)](https://github.com/avneesh0612)
 
-
 ## 📰 My Latest Blog Posts
+
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://blog.avneesh.tech//5-javascript-array-methods" title="5 JavaScript Array methods you need to know!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1637670452757/AqpSuw5g6.png" alt="5 JavaScript Array methods you need to know!" width="250px" align="left" /></a>
@@ -38,6 +39,6 @@ https://www.loom.com/share/432917e9... </p> <br/> <br/>
 <a href="https://blog.avneesh.tech/"><img src="https://user-images.githubusercontent.com/76690419/142756081-13352f92-8482-4a86-acbb-72dc164e8746.png" alt="Read more" width="200"/></a>
 </p>
 
-
 ### 🤓 Daily.dev profile card
+
 <a href="https://app.daily.dev/avneesh0612"><img src="https://api.daily.dev/devcards/ce4ce03d4f074a4d8143c215bf1e126d.png?r=4vo" width="300" alt="Avneesh Agarwal's Dev Card"/></a>
