@@ -3,11 +3,11 @@ I am a . I am passionate about building websites with Next and also like meeting
 I like to learn about new tech and blog about it on [Hashnode](https://hashnode.com/@avneesh0612). If you want to read my blogs, click [here](https://avneesh0612.hashnode.dev/)
 
 ### A few things about me-
-- I'm web developer, designer, content creator and student
-- I'm from India
-- I am passionate about building websites with Next.js
-- I like to meet new people
-- I like to play all sports and play tennis on a daily basis
+- 💻 I'm web developer, designer, content creator and student
+- 📍 I'm from India
+- 🕸️ I am passionate about building websites with Next.js
+- 🤝 I like to meet new people
+- 🎾 I like to play all sports and play tennis on a daily basis
 
 ### 📫 How to reach me?
 Feel free to reach me out on any platforms [here](https://avneesh-links.vercel.app)
