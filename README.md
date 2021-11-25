@@ -1,5 +1,5 @@
 ### Hi there, 👋  I'm Avneesh
-I'm a FullStack Web Developer.
+I am a web developer, designer, content creator and student. I am passionate about building websites with Next and also like meeting new people.
 I like to learn about new tech and blog about it on [Hashnode](https://hashnode.com/). If you want to read my blogs, click [here](https://avneesh0612.hashnode.dev/)
 
 * 📫 How to reach me?
