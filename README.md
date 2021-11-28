@@ -1,5 +1,8 @@
 # Hi there, I'm Avneesh 👋
 
+![Twitter header - 1](https://user-images.githubusercontent.com/76690419/143735787-4425d946-b829-46eb-bd97-c68b76ae2a9e.png)
+
+
 ### A few things about me
 
 - 💻 I'm web developer, designer, content creator and student
