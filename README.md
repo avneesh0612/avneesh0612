@@ -1,4 +1,6 @@
-# Hi there, I'm Avneesh 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Avneesh's+GitHub+Profile!)](https://git.io/typing-svg)
+
+<h1 align="center">Hi, I'm Avneesh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ![Twitter header - 1](https://user-images.githubusercontent.com/76690419/143735787-4425d946-b829-46eb-bd97-c68b76ae2a9e.png)
 
@@ -12,14 +14,16 @@
 - 🎾 I like to play all sports and play tennis on a daily basis
 - 🤓 I like to learn about new tech and blog about it on [Hashnode](https://hashnode.com/@avneesh0612). If you want to read my blogs, click [here](https://blog.avneesh.tech)
 
-### 📫 How to reach me?
+## 📫 How to reach me?
 
 Feel free to reach me out on any platforms [here](links.avneesh.tech)
 
-### 📈 GitHub Stats
-
-[![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=avneesh0612&count_private=true&theme=dracula&hide_border=true)](https://github.com/avneesh0612)<br />
-[![Avneesh's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=avneesh0612&theme=dracula&layout=compact&hide_border=true)](https://github.com/avneesh0612)
+## 📈 GitHub Stats
+<br>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avneesh0612&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avneesh0612&theme=radical" />
+</p>
 
 ## 📰 My Latest Blog Posts
 
