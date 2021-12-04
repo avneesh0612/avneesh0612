@@ -29,17 +29,18 @@ Feel free to reach me out on any platforms [here](links.avneesh.tech)
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.avneesh.tech//metamask-auth-with-moralis" title="Metamask authentication with Moralis in Next.js"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638540391087/z7hzH79i3.png" alt="Metamask authentication with Moralis in Next.js" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//metamask-auth-with-moralis" title="Metamask authentication with Moralis in Next.js"><strong>Metamask authentication with Moralis in Next.js</strong></a>
+<br/> If you haven't been living under a rock you have probably heard of Web 3.0!
+
+One of the most important parts of a full-stack is authentication. So let's see how to authorize users with their Metamask wallet in a Next.js app.
+If you don't know what is... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.avneesh.tech//5-javascript-array-methods" title="5 JavaScript Array methods you need to know!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1637670452757/AqpSuw5g6.png" alt="5 JavaScript Array methods you need to know!" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//5-javascript-array-methods" title="5 JavaScript Array methods you need to know!"><strong>5 JavaScript Array methods you need to know!</strong></a>
 <br/> While building applications you would have noticed yourself using Array's a lot. So let's take a look at the 5 Array methods.
 To show you all the methods with examples, I am going to create a simple Array with some fruits and their prices-
 const frui... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.avneesh.tech//animate-and-change-header-background-on-scroll" title="Animate and Change Header Background on Scroll"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636354538679/yUuVhSKRb.png" alt="Animate and Change Header Background on Scroll" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//animate-and-change-header-background-on-scroll" title="Animate and Change Header Background on Scroll"><strong>Animate and Change Header Background on Scroll</strong></a>
-<br/> You might have seen some web apps where the header changes its color or becomes glassmorphic when you scroll down. So in this tutorial, I am going to show you how you can do the same. Let's jump right into it.
-Demo
-https://www.loom.com/share/432917e9... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
