@@ -29,6 +29,17 @@ Feel free to reach me out on any platforms [here](links.avneesh.tech)
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.avneesh.tech//how-to-add-twitter-auth-quickly-with-supabase-to-your-nextjs-site" title="How to add Twitter auth quickly with Supabase to your Next.js site ⚡"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638968159817/bYGtJZiJS.png" alt="How to add Twitter auth quickly with Supabase to your Next.js site ⚡" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//how-to-add-twitter-auth-quickly-with-supabase-to-your-nextjs-site" title="How to add Twitter auth quickly with Supabase to your Next.js site ⚡"><strong>How to add Twitter auth quickly with Supabase to your Next.js site ⚡</strong></a>
+<br/> 🙋‍♂️Hey there, today we are going to see how to add Twitter auth with Supabase in a Next.js app. Let's get started
+
+What we are going to build
+https://www.loom.com/share/d35e0765cd7d4a77a33e82bb1634cfa7
+ Live demo 
+Setup
+Creating a new Next.js app
+I... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.avneesh.tech//hashnode-blog-customization" title="How I personalized my Hashnode blog and you can too! 🌟"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638777601872/G2W_l2aam.png" alt="How I personalized my Hashnode blog and you can too! 🌟" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//hashnode-blog-customization" title="How I personalized my Hashnode blog and you can too! 🌟"><strong>How I personalized my Hashnode blog and you can too! 🌟</strong></a>
 <br/> Many people have asked me that how does my blog feels so similar to my portfolio and matches the theme even though it is built using Hashnode and I have done very little work for the blog.
@@ -36,13 +47,6 @@ The answer is with custom CSS!
 
 What is Hashnode?
 For the rea... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.avneesh.tech//metamask-auth-with-moralis" title="Metamask authentication with Moralis in Next.js"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1638540391087/z7hzH79i3.png" alt="Metamask authentication with Moralis in Next.js" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//metamask-auth-with-moralis" title="Metamask authentication with Moralis in Next.js"><strong>Metamask authentication with Moralis in Next.js</strong></a>
-<br/> If you haven't been living under a rock you have probably heard of Web 3.0!
-
-One of the most important parts of a full-stack is authentication. So let's see how to authorize users with their Metamask wallet in a Next.js app.
-If you don't know what is... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
