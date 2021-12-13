@@ -40,7 +40,7 @@ The JIT mod is now inbuilt in TailwindCSS so it is way faster now and also enabl
 <a href="https://blog.avneesh.tech//how-to-build-a-todo-app-with-svelte" title="How to Build a Todo app with Svelte!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636704805841/escqa4sUN.png" alt="How to Build a Todo app with Svelte!" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//how-to-build-a-todo-app-with-svelte" title="How to Build a Todo app with Svelte!"><strong>How to Build a Todo app with Svelte!</strong></a>
 <br/> Demo
-https://www.loom.com/share/99032ab2d14844cfb0962e0e71ed3891
+<https://www.loom.com/share/99032ab2d14844cfb0962e0e71ed3891>
 Setup
 Create app
 npx degit sveltejs/template svelte-todo-app
