@@ -16,7 +16,7 @@
 
 ## 📫 How to reach me?
 
-Feel free to reach me out on any platforms [here](links.avneesh.tech)
+Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
 
 ## 📈 GitHub Stats
 <br>
