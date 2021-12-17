@@ -29,6 +29,10 @@ Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.avneesh.tech//next-seo-a-better-way-to-manage-seo-for-nextjs" title="Next SEO: A better way to Manage SEO for Next.js 🔍"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639660827849/Z-4o0L2Zy.png" alt="Next SEO: A better way to Manage SEO for Next.js 🔍" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//next-seo-a-better-way-to-manage-seo-for-nextjs" title="Next SEO: A better way to Manage SEO for Next.js 🔍"><strong>Next SEO: A better way to Manage SEO for Next.js 🔍</strong></a>
+<br/> The Next.js head tags are a good way to add the meta tags, title, description, open graph image, etc. but you might not remember all the meta tags and it can also look messy, so we are going to see how to simplify this process using a package called ... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.avneesh.tech//tailwindcss-v3" title="TailwindCSS v3 released! A look at the new features 🎨"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639314048589/bxCc4PF6XU.png" alt="TailwindCSS v3 released! A look at the new features 🎨" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//tailwindcss-v3" title="TailwindCSS v3 released! A look at the new features 🎨"><strong>TailwindCSS v3 released! A look at the new features 🎨</strong></a>
 <br/> Intro
@@ -36,22 +40,6 @@ Tailwind CSS v3.0 just got released and they have added a lot of cool features, 
 
 JIT is now inbuilt
 The JIT mod is now inbuilt in TailwindCSS so it is way faster now and also enables some cool new features like sta... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.avneesh.tech//how-to-build-a-todo-app-with-svelte" title="How to Build a Todo app with Svelte!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636704805841/escqa4sUN.png" alt="How to Build a Todo app with Svelte!" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//how-to-build-a-todo-app-with-svelte" title="How to Build a Todo app with Svelte!"><strong>How to Build a Todo app with Svelte!</strong></a>
-<br/> Demo
-https://www.loom.com/share/99032ab2d14844cfb0962e0e71ed3891
-Setup
-Create app
-npx degit sveltejs/template svelte-todo-app
-cd into the folder-
-cd svelte-todo-app
-Install dependencies
-npm install # npm
-
-yarn install # yarn
-Start app
-npm run dev # n... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
