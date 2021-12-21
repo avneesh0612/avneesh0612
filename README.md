@@ -29,17 +29,17 @@ Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.avneesh.tech//create-an-animated-sidebar-with-tailwindcss-in-react" title="Create an animated sidebar with TailwindCSS in React💫"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640074928774/phHRYjxv4c.png" alt="Create an animated sidebar with TailwindCSS in React💫" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//create-an-animated-sidebar-with-tailwindcss-in-react" title="Create an animated sidebar with TailwindCSS in React💫"><strong>Create an animated sidebar with TailwindCSS in React💫</strong></a>
+<br/> Hey everyone, in many apps you need a sidebar/drawer which slides in if you click on a hamburger icon. In this tutorial, we are going to see how to build that 🌟.
+Demo
+https://www.loom.com/share/b748e5d32ebd4552aebf78be01d63408
+Setup
+Creating a new r... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.avneesh.tech//next-seo-a-better-way-to-manage-seo-for-nextjs" title="Next SEO: A better way to Manage SEO for Next.js 🔍"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639660827849/Z-4o0L2Zy.png" alt="Next SEO: A better way to Manage SEO for Next.js 🔍" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//next-seo-a-better-way-to-manage-seo-for-nextjs" title="Next SEO: A better way to Manage SEO for Next.js 🔍"><strong>Next SEO: A better way to Manage SEO for Next.js 🔍</strong></a>
 <br/> The Next.js head tags are a good way to add the meta tags, title, description, open graph image, etc. but you might not remember all the meta tags and it can also look messy, so we are going to see how to simplify this process using a package called ... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.avneesh.tech//tailwindcss-v3" title="TailwindCSS v3 released! A look at the new features 🎨"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639314048589/bxCc4PF6XU.png" alt="TailwindCSS v3 released! A look at the new features 🎨" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//tailwindcss-v3" title="TailwindCSS v3 released! A look at the new features 🎨"><strong>TailwindCSS v3 released! A look at the new features 🎨</strong></a>
-<br/> Intro
-Tailwind CSS v3.0 just got released and they have added a lot of cool features, so let's have a look at them.
-
-JIT is now inbuilt
-The JIT mod is now inbuilt in TailwindCSS so it is way faster now and also enables some cool new features like sta... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
