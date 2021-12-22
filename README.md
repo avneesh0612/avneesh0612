@@ -33,7 +33,7 @@ Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
 <a href="https://blog.avneesh.tech//create-an-animated-sidebar-with-tailwindcss-in-react" title="Create an animated sidebar with TailwindCSS in React💫"><strong>Create an animated sidebar with TailwindCSS in React💫</strong></a>
 <br/> Hey everyone, in many apps you need a sidebar/drawer which slides in if you click on a hamburger icon. In this tutorial, we are going to see how to build that 🌟.
 Demo
-
+https://www.loom.com/share/b748e5d32ebd4552aebf78be01d63408
 Setup
 Creating a new r... </p> <br/> <br/>
 <p align="left">
