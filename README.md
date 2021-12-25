@@ -29,17 +29,20 @@ Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.avneesh.tech//2021-wrapped" title="2021 Wrapped"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640356329305/xOKx_xK0l.png" alt="2021 Wrapped" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//2021-wrapped" title="2021 Wrapped"><strong>2021 Wrapped</strong></a>
+<br/> This year has been so amazing, and I have done lots of stuff. So in this article, I am just gonna show everything that I did this year.
+
+January
+I was very new to coding, I knew a bit of HTML which I learned in school. I was watching youtube and rand... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.avneesh.tech//create-an-animated-sidebar-with-tailwindcss-in-react" title="Create an animated sidebar with TailwindCSS in React💫"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640074928774/phHRYjxv4c.png" alt="Create an animated sidebar with TailwindCSS in React💫" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//create-an-animated-sidebar-with-tailwindcss-in-react" title="Create an animated sidebar with TailwindCSS in React💫"><strong>Create an animated sidebar with TailwindCSS in React💫</strong></a>
 <br/> Hey everyone, in many apps you need a sidebar/drawer which slides in if you click on a hamburger icon. In this tutorial, we are going to see how to build that 🌟.
 Demo
-<https://www.loom.com/share/b748e5d32ebd4552aebf78be01d63408>
+https://www.loom.com/share/b748e5d32ebd4552aebf78be01d63408
 Setup
 Creating a new r... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.avneesh.tech//next-seo-a-better-way-to-manage-seo-for-nextjs" title="Next SEO: A better way to Manage SEO for Next.js 🔍"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1639660827849/Z-4o0L2Zy.png" alt="Next SEO: A better way to Manage SEO for Next.js 🔍" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//next-seo-a-better-way-to-manage-seo-for-nextjs" title="Next SEO: A better way to Manage SEO for Next.js 🔍"><strong>Next SEO: A better way to Manage SEO for Next.js 🔍</strong></a>
-<br/> The Next.js head tags are a good way to add the meta tags, title, description, open graph image, etc. but you might not remember all the meta tags and it can also look messy, so we are going to see how to simplify this process using a package called ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
