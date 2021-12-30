@@ -48,3 +48,10 @@ Creating a new r... </p> <br/> <br/>
 <p align="center">  
 <a href="https://blog.avneesh.tech/"><img src="https://user-images.githubusercontent.com/76690419/142756081-13352f92-8482-4a86-acbb-72dc164e8746.png" alt="Read more" width="200"/></a>
 </p>
+
+
+## Discord Status 💻
+
+<a href="https://discord.com/users/765196568051580949">
+     <img src="https://lanyard.cnrad.dev/api/765196568051580949" width="400" height="200" />
+</a>
