@@ -36,13 +36,13 @@ Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
 January
 I was very new to coding, I knew a bit of HTML which I learned in school. I was watching youtube and rand... </p> <br/> <br/>
 <p align="left">
-<a href="https://blog.avneesh.tech//create-an-animated-sidebar-with-tailwindcss-in-react" title="Create an animated sidebar with TailwindCSS in React💫"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640074928774/phHRYjxv4c.png" alt="Create an animated sidebar with TailwindCSS in React💫" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//create-an-animated-sidebar-with-tailwindcss-in-react" title="Create an animated sidebar with TailwindCSS in React💫"><strong>Create an animated sidebar with TailwindCSS in React💫</strong></a>
-<br/> Hey everyone, in many apps you need a sidebar/drawer which slides in if you click on a hamburger icon. In this tutorial, we are going to see how to build that 🌟.
-Demo
-https://www.loom.com/share/b748e5d32ebd4552aebf78be01d63408
-Setup
-Creating a new r... </p> <br/> <br/>
+<a href="https://blog.avneesh.tech//stop-showing-that-boring-404-page-in-your-nextjs-app" title="Stop showing that boring 404 page in your Next.js app!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641049683497/ghgm7UxRz.png" alt="Stop showing that boring 404 page in your Next.js app!" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//stop-showing-that-boring-404-page-in-your-nextjs-app" title="Stop showing that boring 404 page in your Next.js app!"><strong>Stop showing that boring 404 page in your Next.js app!</strong></a>
+<br/> You might have seen some fancy 404 pages and liked it! In this article let's see how we can make one too.
+Default 404 page with Next
+If you go to a route that doesn't exist in your Next.js app you will see this simple 404 page-
+
+This is okay but let'... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
