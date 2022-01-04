@@ -29,13 +29,6 @@ Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.avneesh.tech//2021-wrapped" title="2021 Wrapped"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640356329305/xOKx_xK0l.png" alt="2021 Wrapped" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//2021-wrapped" title="2021 Wrapped"><strong>2021 Wrapped</strong></a>
-<br/> This year has been so amazing, and I have done lots of stuff. So in this article, I am just gonna show everything that I did this year.
-
-January
-I was very new to coding, I knew a bit of HTML which I learned in school. I was watching youtube and rand... </p> <br/> <br/>
-<p align="left">
 <a href="https://blog.avneesh.tech//stop-showing-that-boring-404-page-in-your-nextjs-app" title="Stop showing that boring 404 page in your Next.js app!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641049683497/ghgm7UxRz.png" alt="Stop showing that boring 404 page in your Next.js app!" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//stop-showing-that-boring-404-page-in-your-nextjs-app" title="Stop showing that boring 404 page in your Next.js app!"><strong>Stop showing that boring 404 page in your Next.js app!</strong></a>
 <br/> You might have seen some fancy 404 pages and liked it! In this article let's see how we can make one too.
@@ -43,6 +36,13 @@ Default 404 page with Next
 If you go to a route that doesn't exist in your Next.js app you will see this simple 404 page-
 
 This is okay but let'... </p> <br/> <br/>
+<p align="left">
+<a href="https://blog.avneesh.tech//2021-wrapped" title="2021 Wrapped"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1640356329305/xOKx_xK0l.png" alt="2021 Wrapped" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//2021-wrapped" title="2021 Wrapped"><strong>2021 Wrapped</strong></a>
+<br/> This year has been so amazing, and I have done lots of stuff. So in this article, I am just gonna show everything that I did this year.
+
+January
+I was very new to coding, I knew a bit of HTML which I learned in school. I was watching youtube and rand... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
