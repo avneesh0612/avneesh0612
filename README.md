@@ -29,20 +29,21 @@ Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.avneesh.tech//setup-e-commerce-white-medusa" title="How to start a headless E2E e-commerce store in no time with Medusa 🛍️"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641478297281/RojuELsDb.png" alt="How to start a headless E2E e-commerce store in no time with Medusa 🛍️" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//setup-e-commerce-white-medusa" title="How to start a headless E2E e-commerce store in no time with Medusa 🛍️"><strong>How to start a headless E2E e-commerce store in no time with Medusa 🛍️</strong></a>
+<br/> Wassup everyone, in this article we are going to create a headless e-commerce application using an open-source alternative to Shopify-  Medusa.
+
+What are we building?
+https://www.loom.com/share/0b3dd851cb2d449f8c452369aa514017
+What is Medusa?
+Medusa ... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.avneesh.tech//building-a-crud-api-with-nodejs-and-mongodb" title="Building a CRUD API with Node.js and MongoDB"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641546672639/5MBkGT9a8.png" alt="Building a CRUD API with Node.js and MongoDB" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//building-a-crud-api-with-nodejs-and-mongodb" title="Building a CRUD API with Node.js and MongoDB"><strong>Building a CRUD API with Node.js and MongoDB</strong></a>
 <br/> Howdy everyone, in this article we are going to build a CRUD (Create, Read, Update, Delete) API with  Node.js and MongoDB. This API will be able to add, get, edit and delete todos!
 Setting up our node app
 Create a new folder and give it a name-
 mkdir... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.avneesh.tech//stop-showing-that-boring-404-page-in-your-nextjs-app" title="Stop showing that boring 404 page in your Next.js app!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641049683497/ghgm7UxRz.png" alt="Stop showing that boring 404 page in your Next.js app!" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//stop-showing-that-boring-404-page-in-your-nextjs-app" title="Stop showing that boring 404 page in your Next.js app!"><strong>Stop showing that boring 404 page in your Next.js app!</strong></a>
-<br/> You might have seen some fancy 404 pages and liked it! In this article let's see how we can make one too.
-Default 404 page with Next
-If you go to a route that doesn't exist in your Next.js app you will see this simple 404 page-
-
-This is okay but let'... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
