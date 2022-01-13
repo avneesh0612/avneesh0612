@@ -29,6 +29,17 @@ Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.avneesh.tech//make-your-first-crypto-with-thirdweb" title="Make your first Crypto with ThirdWeb 🤯"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641990487163/Q-XZuZ9Zs.png" alt="Make your first Crypto with ThirdWeb 🤯" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//make-your-first-crypto-with-thirdweb" title="Make your first Crypto with ThirdWeb 🤯"><strong>Make your first Crypto with ThirdWeb 🤯</strong></a>
+<br/> Have you ever wondered how amazing it would be to create your crypto? So, in this article let's build our very first crypto!
+Setup
+Create a new folder-
+ mkdir thirdweb-crypto
+Initialize Node.js-
+npm init -y
+Change type to module
+we are going to use m... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.avneesh.tech//setup-e-commerce-white-medusa" title="How to start a headless E2E e-commerce store in no time with Medusa 🛍️"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641478297281/RojuELsDb.png" alt="How to start a headless E2E e-commerce store in no time with Medusa 🛍️" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//setup-e-commerce-white-medusa" title="How to start a headless E2E e-commerce store in no time with Medusa 🛍️"><strong>How to start a headless E2E e-commerce store in no time with Medusa 🛍️</strong></a>
 <br/> Wassup everyone, in this article we are going to create a headless e-commerce application using an open-source alternative to Shopify-  Medusa.
@@ -37,13 +48,6 @@ What are we building?
 https://www.loom.com/share/0b3dd851cb2d449f8c452369aa514017
 What is Medusa?
 Medusa ... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.avneesh.tech//building-a-crud-api-with-nodejs-and-mongodb" title="Building a CRUD API with Node.js and MongoDB"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641546672639/5MBkGT9a8.png" alt="Building a CRUD API with Node.js and MongoDB" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//building-a-crud-api-with-nodejs-and-mongodb" title="Building a CRUD API with Node.js and MongoDB"><strong>Building a CRUD API with Node.js and MongoDB</strong></a>
-<br/> Howdy everyone, in this article we are going to build a CRUD (Create, Read, Update, Delete) API with  Node.js and MongoDB. This API will be able to add, get, edit and delete todos!
-Setting up our node app
-Create a new folder and give it a name-
-mkdir... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
