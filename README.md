@@ -29,22 +29,17 @@ Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.avneesh.tech//metamask-authentication-in-nextjs-with-clerk" title="Metamask authentication in Next.js with Clerk 🔒"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642937725623/8RvduGKDU.png" alt="Metamask authentication in Next.js with Clerk 🔒" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//metamask-authentication-in-nextjs-with-clerk" title="Metamask authentication in Next.js with Clerk 🔒"><strong>Metamask authentication in Next.js with Clerk 🔒</strong></a>
+<br/> Hello everyone! As you have seen web3 is very popular right now. Clerk has recently released metamask authentication. So let's take a look at how to implement it in our app!
+What is Clerk?
+Clerk is one of the best ways to add authentication to a Next... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.avneesh.tech//add-google-analytics-to-your-nextjs-app" title="Add google analytics to your Next.js app ✨"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642351812154/3NAv_fe5I.png" alt="Add google analytics to your Next.js app ✨" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//add-google-analytics-to-your-nextjs-app" title="Add google analytics to your Next.js app ✨"><strong>Add google analytics to your Next.js app ✨</strong></a>
 <br/> Wassup everyone, let's see how to add google analytics to your Next.js site. Google Analytics will help you to see the performance of each page, how well the site is doing in countries, different devices, etc.
 Setup Google Analytics
 Go to  Google Ana... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.avneesh.tech//make-your-first-crypto-with-thirdweb" title="Make your first Crypto with ThirdWeb 🤯"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641990487163/Q-XZuZ9Zs.png" alt="Make your first Crypto with ThirdWeb 🤯" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//make-your-first-crypto-with-thirdweb" title="Make your first Crypto with ThirdWeb 🤯"><strong>Make your first Crypto with ThirdWeb 🤯</strong></a>
-<br/> Have you ever wondered how amazing it would be to create your crypto? So, in this article let's build our very first crypto!
-Setup
-Create a new folder-
- mkdir thirdweb-crypto
-Initialize Node.js-
-npm init -y
-Change type to module
-we are going to use m... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
