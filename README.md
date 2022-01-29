@@ -35,11 +35,11 @@ Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
 ✒️ What is Inscribe?
 Inscribe is a DAO for blog... </p> <br/> <br/>
 <p align="left">
-<a href="https://blog.avneesh.tech//how-i-built-inscribe-bloggers-dao" title="How I built Inscribe: Bloggers DAO"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1643289839328/Qr12sz8WOu.png" alt="How I built Inscribe: Bloggers DAO" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//how-i-built-inscribe-bloggers-dao" title="How I built Inscribe: Bloggers DAO"><strong>How I built Inscribe: Bloggers DAO</strong></a>
-<br/> Wassup everyone, in this article I wanna showcase a DAO that I built in the first week of January while learning web3! So, I built a bloggers Dao called Inscribe with Next.js, TailwindCSS, and Thirdweb!
-✒️ What is Inscribe?
-Inscribe is a DAO for blog... </p> <br/> <br/>
+<a href="https://blog.avneesh.tech//metamask-authentication-in-nextjs-with-clerk" title="Metamask authentication in Next.js with Clerk 🔒"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1642937725623/8RvduGKDU.png" alt="Metamask authentication in Next.js with Clerk 🔒" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//metamask-authentication-in-nextjs-with-clerk" title="Metamask authentication in Next.js with Clerk 🔒"><strong>Metamask authentication in Next.js with Clerk 🔒</strong></a>
+<br/> Hello everyone! As you have seen web3 is very popular right now. Clerk has recently released metamask authentication. So let's take a look at how to implement it in our app!
+What is Clerk?
+Clerk is one of the best ways to add authentication to a Next... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
