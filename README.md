@@ -29,23 +29,14 @@ Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.avneesh.tech//how-to-make-a-count-down-timer-in-react" title="How to make a count down timer in React 🔥"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1646053453873/wKAdtgiPP.png" alt="How to make a count down timer in React 🔥" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//how-to-make-a-count-down-timer-in-react" title="How to make a count down timer in React 🔥"><strong>How to make a count down timer in React 🔥</strong></a>
-<br/> Hello everyone, in many kinds of apps you need to build a count down. So, today we will see how to build a countdown timer in React!
-
-Setup
-Create a new react app
-npx create-react-app react-countdown
-Cleanup
-
-Delete everything in the app div in App.j... </p> <br/> <br/>
+<a href="https://blog.avneesh.tech//create-a-todo-app-with-thirdweb-deploy-and-nextjs" title="Create a todo app with thirdweb deploy and Next.js"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662949428667/Br6_am3cc.png" alt="Create a todo app with thirdweb deploy and Next.js" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//create-a-todo-app-with-thirdweb-deploy-and-nextjs" title="Create a todo app with thirdweb deploy and Next.js"><strong>Create a todo app with thirdweb deploy and Next.js</strong></a>
+<br/> This guide will show you how to build a full web3 application that allows users to create an on-chain to-do list, using Solidity for the smart contract and Next.js for the application.
+Before we get started, below are some helpful resources where you... </p> <br/> <br/>
 <p align="left">
-<a href="https://blog.avneesh.tech//how-to-make-a-sponsors-site-with-nextjs-tailwind-css-and-stripe" title="How to make a sponsors site with Next.js, Tailwind CSS, and Stripe 💵"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1644141766186/Yx05e3USA.png" alt="How to make a sponsors site with Next.js, Tailwind CSS, and Stripe 💵" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//how-to-make-a-sponsors-site-with-nextjs-tailwind-css-and-stripe" title="How to make a sponsors site with Next.js, Tailwind CSS, and Stripe 💵"><strong>How to make a sponsors site with Next.js, Tailwind CSS, and Stripe 💵</strong></a>
-<br/> Hello everyone, ever thought of creating a site that can allow you to accept sponsors? Let's build a site to accept sponsors, today!
-Setup
-Setting up Next.js app
-I am going to use Tailwind CSS for styling our app, so I will use the with-tailwindcss t... </p> <br/> <br/>
+<a href="https://blog.avneesh.tech//allow-github-contributors-to-mint-an-nft" title="Allow GitHub contributors to mint an NFT"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662950229338/s0QPqPn0K.png" alt="Allow GitHub contributors to mint an NFT" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//allow-github-contributors-to-mint-an-nft" title="Allow GitHub contributors to mint an NFT"><strong>Allow GitHub contributors to mint an NFT</strong></a>
+<br/> In this guide, we'll show you how to create an app where users can sign in with their GitHub and web3 wallet. Once they are signed in, we will validate if they have contributed to one of our repos; and if they have, we will allow the users to mint an... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
