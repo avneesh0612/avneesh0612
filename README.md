@@ -29,14 +29,15 @@ Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.avneesh.tech//stripe-subscriptions-using-sign-in-with-ethereum" title="Stripe Subscriptions Using Sign In With Ethereum"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663325140386/_t0mD-XFY.png" alt="Stripe Subscriptions Using Sign In With Ethereum" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//stripe-subscriptions-using-sign-in-with-ethereum" title="Stripe Subscriptions Using Sign In With Ethereum"><strong>Stripe Subscriptions Using Sign In With Ethereum</strong></a>
+<br/> This guide will show you how to build a complete web3 application that allows users to sign in using their web3 wallet and then join a monthly subscription via stripe.
+Before we get started, below are some helpful resources where you can learn more a... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.avneesh.tech//create-a-todo-app-with-thirdweb-deploy-and-nextjs" title="Create a todo app with thirdweb deploy and Next.js"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662949428667/Br6_am3cc.png" alt="Create a todo app with thirdweb deploy and Next.js" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//create-a-todo-app-with-thirdweb-deploy-and-nextjs" title="Create a todo app with thirdweb deploy and Next.js"><strong>Create a todo app with thirdweb deploy and Next.js</strong></a>
 <br/> This guide will show you how to build a full web3 application that allows users to create an on-chain to-do list, using Solidity for the smart contract and Next.js for the application.
 Before we get started, below are some helpful resources where you... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.avneesh.tech//allow-github-contributors-to-mint-an-nft" title="Allow GitHub contributors to mint an NFT"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662950229338/s0QPqPn0K.png" alt="Allow GitHub contributors to mint an NFT" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//allow-github-contributors-to-mint-an-nft" title="Allow GitHub contributors to mint an NFT"><strong>Allow GitHub contributors to mint an NFT</strong></a>
-<br/> In this guide, we'll show you how to create an app where users can sign in with their GitHub and web3 wallet. Once they are signed in, we will validate if they have contributed to one of our repos; and if they have, we will allow the users to mint an... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
