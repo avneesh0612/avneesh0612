@@ -29,15 +29,15 @@ Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.avneesh.tech//build-a-mutant-ape-yacht-club-mayc-nft-collection-clone" title="Build A Mutant Ape Yacht Club (MAYC) NFT Collection Clone"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663886931577/6lgblfJMH.png" alt="Build A Mutant Ape Yacht Club (MAYC) NFT Collection Clone" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//build-a-mutant-ape-yacht-club-mayc-nft-collection-clone" title="Build A Mutant Ape Yacht Club (MAYC) NFT Collection Clone"><strong>Build A Mutant Ape Yacht Club (MAYC) NFT Collection Clone</strong></a>
+<br/> In this guide, we'll show you how to create a clone of the MAYC collection drop where users from an original collection will be airdropped serums that can be used to mint a MAYC NFT. When the user claims the NFT, the serum will be burned.
+Before we g... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.avneesh.tech//stripe-subscriptions-using-sign-in-with-ethereum" title="Stripe Subscriptions Using Sign In With Ethereum"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663325140386/_t0mD-XFY.png" alt="Stripe Subscriptions Using Sign In With Ethereum" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//stripe-subscriptions-using-sign-in-with-ethereum" title="Stripe Subscriptions Using Sign In With Ethereum"><strong>Stripe Subscriptions Using Sign In With Ethereum</strong></a>
 <br/> This guide will show you how to build a complete web3 application that allows users to sign in using their web3 wallet and then join a monthly subscription via stripe.
 Before we get started, below are some helpful resources where you can learn more a... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.avneesh.tech//create-a-todo-app-with-thirdweb-deploy-and-nextjs" title="Create a todo app with thirdweb deploy and Next.js"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662949428667/Br6_am3cc.png" alt="Create a todo app with thirdweb deploy and Next.js" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//create-a-todo-app-with-thirdweb-deploy-and-nextjs" title="Create a todo app with thirdweb deploy and Next.js"><strong>Create a todo app with thirdweb deploy and Next.js</strong></a>
-<br/> This guide will show you how to build a full web3 application that allows users to create an on-chain to-do list, using Solidity for the smart contract and Next.js for the application.
-Before we get started, below are some helpful resources where you... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
