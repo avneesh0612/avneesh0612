@@ -29,15 +29,14 @@ Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.avneesh.tech//how-to-support-multiple-chains-in-your-thirdweb-dapp" title="How to support multiple chains in your thirdweb Dapp"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1664857175512/0ap0XNio6.png" alt="How to support multiple chains in your thirdweb Dapp" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//how-to-support-multiple-chains-in-your-thirdweb-dapp" title="How to support multiple chains in your thirdweb Dapp"><strong>How to support multiple chains in your thirdweb Dapp</strong></a>
+<br/> This guide will show you how to create a Dapp that works on multiple chains. In this Dapp we are going to allow users to select chains and claim an NFT from the respective chain. I am going to show goerli and Mumbai but you could do it on any network... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.avneesh.tech//build-a-mutant-ape-yacht-club-mayc-nft-collection-clone" title="Build A Mutant Ape Yacht Club (MAYC) NFT Collection Clone"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663886931577/6lgblfJMH.png" alt="Build A Mutant Ape Yacht Club (MAYC) NFT Collection Clone" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//build-a-mutant-ape-yacht-club-mayc-nft-collection-clone" title="Build A Mutant Ape Yacht Club (MAYC) NFT Collection Clone"><strong>Build A Mutant Ape Yacht Club (MAYC) NFT Collection Clone</strong></a>
 <br/> In this guide, we'll show you how to create a clone of the MAYC collection drop where users from an original collection will be airdropped serums that can be used to mint a MAYC NFT. When the user claims the NFT, the serum will be burned.
 Before we g... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.avneesh.tech//stripe-subscriptions-using-sign-in-with-ethereum" title="Stripe Subscriptions Using Sign In With Ethereum"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663325140386/_t0mD-XFY.png" alt="Stripe Subscriptions Using Sign In With Ethereum" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//stripe-subscriptions-using-sign-in-with-ethereum" title="Stripe Subscriptions Using Sign In With Ethereum"><strong>Stripe Subscriptions Using Sign In With Ethereum</strong></a>
-<br/> This guide will show you how to build a complete web3 application that allows users to sign in using their web3 wallet and then join a monthly subscription via stripe.
-Before we get started, below are some helpful resources where you can learn more a... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
