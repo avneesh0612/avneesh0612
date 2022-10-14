@@ -29,14 +29,17 @@ Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.avneesh.tech//sign-in-with-solana-authenticate-users-with-their-phantom-wallet" title="Sign In with Solana - Authenticate Users with their Phantom Wallet"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1665624329585/PDrpkpUy9.png" alt="Sign In with Solana - Authenticate Users with their Phantom Wallet" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//sign-in-with-solana-authenticate-users-with-their-phantom-wallet" title="Sign In with Solana - Authenticate Users with their Phantom Wallet"><strong>Sign In with Solana - Authenticate Users with their Phantom Wallet</strong></a>
+<br/> Introduction
+In this guide, we are going to use thirdweb auth to add sign in with Solana to our Dapps!
+Before we get started, below are some helpful resources where you can learn more about the tools we will use in this guide.
+
+View project source co... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.avneesh.tech//how-to-support-multiple-chains-in-your-thirdweb-dapp" title="How to support multiple chains in your thirdweb Dapp"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1664857175512/0ap0XNio6.png" alt="How to support multiple chains in your thirdweb Dapp" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//how-to-support-multiple-chains-in-your-thirdweb-dapp" title="How to support multiple chains in your thirdweb Dapp"><strong>How to support multiple chains in your thirdweb Dapp</strong></a>
 <br/> This guide will show you how to create a Dapp that works on multiple chains. In this Dapp we are going to allow users to select chains and claim an NFT from the respective chain. I am going to show goerli and Mumbai but you could do it on any network... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.avneesh.tech//build-a-mutant-ape-yacht-club-mayc-nft-collection-clone" title="Build A Mutant Ape Yacht Club (MAYC) NFT Collection Clone"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1663886931577/6lgblfJMH.png" alt="Build A Mutant Ape Yacht Club (MAYC) NFT Collection Clone" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//build-a-mutant-ape-yacht-club-mayc-nft-collection-clone" title="Build A Mutant Ape Yacht Club (MAYC) NFT Collection Clone"><strong>Build A Mutant Ape Yacht Club (MAYC) NFT Collection Clone</strong></a>
-<br/> In this guide, we'll show you how to create a clone of the MAYC collection drop where users from an original collection will be airdropped serums that can be used to mint a MAYC NFT. When the user claims the NFT, the serum will be burned.
-Before we g... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
