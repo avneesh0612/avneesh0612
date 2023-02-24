@@ -35,10 +35,10 @@ Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
 Why use web3 sign-in?
 Sign-in with Ethereum allows you to securely log in using a wallet and verify the wallet on the backend! We are going to use Thirdweb Auth which uses the very popular JWT standard! JSON Web Token (JWT) is an open st... </p> <br/> <br/>
 <p align="left">
-<a href="https://blog.avneesh.tech//how-to-use-rainbowkit-with-thirdweb" title="How to use RainbowKit with Thirdweb 🌈"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1660747545287/ZjiMXf7Zs.png" alt="How to use RainbowKit with Thirdweb 🌈" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//how-to-use-rainbowkit-with-thirdweb" title="How to use RainbowKit with Thirdweb 🌈"><strong>How to use RainbowKit with Thirdweb 🌈</strong></a>
+<a href="https://blog.avneesh.tech//how-to-use-rainbowkit-with-thirdweb" title="How to use RainbowKit with thirdweb 🌈"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677126217308/b07827bb-e3fb-4970-996e-9ff82e84ed24.png" alt="How to use RainbowKit with thirdweb 🌈" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//how-to-use-rainbowkit-with-thirdweb" title="How to use RainbowKit with thirdweb 🌈"><strong>How to use RainbowKit with thirdweb 🌈</strong></a>
 <br/> Introduction
-In this guide, we are going to see how to use RainbowKit with Thirdweb! I am going to create a Next.js app and show how the users can connect their wallet with the amazing UX and UI of RainbowKit and then claim an NFT from an NFT drop th... </p> <br/> <br/>
+In this guide, we are going to see how to use RainbowKit with thirdweb! I am going to create a Next.js app and show how the users can connect their wallet with the amazing UX and UI of RainbowKit and then claim an NFT from an NFT drop th... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
