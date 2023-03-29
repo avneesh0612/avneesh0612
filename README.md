@@ -29,16 +29,24 @@ Feel free to reach me out on any platforms [here](https://links.avneesh.tech/)
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://blog.avneesh.tech//what-is-solana-pay-and-how-to-use-it-in-your-nextjs-app" title="An Introduction to Solana Pay and how to Integrate it into Your Next.js App"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679990122582/2d888a78-55c9-49cd-9f9e-1a8c02b21425.png" alt="An Introduction to Solana Pay and how to Integrate it into Your Next.js App" width="250px" align="left" /></a>
+<a href="https://blog.avneesh.tech//what-is-solana-pay-and-how-to-use-it-in-your-nextjs-app" title="An Introduction to Solana Pay and how to Integrate it into Your Next.js App"><strong>An Introduction to Solana Pay and how to Integrate it into Your Next.js App</strong></a>
+<br/> In this guide we'll walk through the following:
+
+What is Solana Pay?
+
+When to use Solana Pay?
+
+How to use Solana Pay in a next.js app and create an app where people can scan a QR code to buy SPL tokens in exchange for SOL
+
+
+By the end of this guide, ... </p> <br/> <br/>
+<p align="left">
 <a href="https://blog.avneesh.tech//how-to-add-web3-sign-in-with-thirdweb" title="How to add web3 sign-in with thirdweb ✨"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1662279178924/qro13Ocnd.png" alt="How to add web3 sign-in with thirdweb ✨" width="250px" align="left" /></a>
 <a href="https://blog.avneesh.tech//how-to-add-web3-sign-in-with-thirdweb" title="How to add web3 sign-in with thirdweb ✨"><strong>How to add web3 sign-in with thirdweb ✨</strong></a>
 <br/> Introduction
 Why use web3 sign-in?
 Sign-in with Ethereum allows you to securely log in using a wallet and verify the wallet on the backend! We are going to use Thirdweb Auth which uses the very popular JWT standard! JSON Web Token (JWT) is an open st... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.avneesh.tech//how-to-use-rainbowkit-with-thirdweb" title="How to use RainbowKit with thirdweb 🌈"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1677126217308/b07827bb-e3fb-4970-996e-9ff82e84ed24.png" alt="How to use RainbowKit with thirdweb 🌈" width="250px" align="left" /></a>
-<a href="https://blog.avneesh.tech//how-to-use-rainbowkit-with-thirdweb" title="How to use RainbowKit with thirdweb 🌈"><strong>How to use RainbowKit with thirdweb 🌈</strong></a>
-<br/> Introduction
-In this guide, we are going to see how to use RainbowKit with thirdweb! I am going to create a Next.js app and show how the users can connect their wallet with the amazing UX and UI of RainbowKit and then claim an NFT from an NFT drop th... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 <p align="center">  
